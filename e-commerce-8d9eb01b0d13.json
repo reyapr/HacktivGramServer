@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-commerce-203504",
+  "private_key_id": "8d9eb01b0d135c73bc8988dddfc22f46bad1936d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDicVN3PiXiOXOn\nHz7I2oSyD3FDfqNFLFcPH/DHxHr6n0fCS2w2UIHVmwtR1VXJmJyBDlzrw6RHP+Te\no3uhkfEy+ZgGevBFv0SQq3k0ULzDoDUSYYI3wOV97wQtQbNi4IK3isc+ArreNINX\nw1XvRPDNS3IsKQX7c0TKNaTYfKs7+N5O7RQsZE025wld1UyRRA1JF2h39ShfUjTC\n7zGIuJE4A8Oogbixo8YXVARMPquw4WLT7k1VHA5TIK8IlQWeIP5U5emzekJSgPw0\nMECRVdcKRGEC36o2zaCo91YpYc0CInhdXEIM0b3chHwxgSprr4JXUbJNU0XOf60k\nYqDyMRwrAgMBAAECggEAXKqayRQGRc9UDGLFe0Wtgv69z6yt3Rt5nydnjiDSYOi4\n4YKjDJEiqMrztW/z1PWeqlO55AOioUO9Af1uFR8X0VACDjjWRfyxbvC1P5sAvJ+9\nyEFeHDnU0JX1JB4cbozJAZqJ0c8lMNTVoR8/dhTE5IaI+Rhqqc2wq32LccqG+pmn\nM0+SjjgIo2CjowXupFQXSE43O5lSBojxmDFBORXUNkG4dBhQ8LYTrQBTr2EIPbgQ\nXM7A4A+lZheqw1/WqqJNr9jDssNPTt9227Gd3TPffC10Pzh/5WBkI/zvqRELDy45\nvAy1gp4OSFhlHGNsrY94L/idlSArrWLAjGHmQsnbEQKBgQDyiRC3tWi/Igb/MHdv\nq7xecEgge3L2TOhVETLVuNpjro9w8TzOfD9BK39ZsBfIookkCSCOlHNKJQP3ZyuG\n/SVlTXKWj1Vo5i69Ktmzn1r/2VO2qRHpaydLRZvPatqXJvQob+EpDRpKFFxXkG5K\nsMCFS2HOwlIG5VSQVVLdeq6NGwKBgQDvA4ymVAgc+u7kYFVFQfDHx7uxoqwrej4n\ntlQYoQOqB9WwGDCFYaFRrTMCpiYFnf0pzt+ntkYVK28gwxFc0J01+eWJ3m4ISyYW\nZpE0simbIH5/6l/Xu+ldfkPVYNu2skgIZvM0nD1dOPYd2qaNpn7kFNvo95lovhYe\nSESphVvuMQKBgQDaArcSS3ESjeW4MbrKmJbEVS2gdRdLqqoU/Vayom08uUabAV3l\nRe4eCJl65z0ZznB0AfhP8cUIWumL1CNePeMFgm6EQ+dEWdSdmg0C1zWXUaVcRfGh\n3f3+PV3nPmerAwrp5leA7RQ6jr7KvztEzEjiCHaswiO1qyMucmQATizlDQKBgCh2\nql4SRdlaJg1lvane8vtvdfgpuQoXROSGOpB82dj0QJnyTmyWTbA9KTCenjs/NvfX\n/QcwlYbJ9qNOQuc6rhLQPqrrjCc9SbJrJNQOAXswshnHvPgR6P0Z/jPmlOvGHOnH\nPA9BECZzGT+On7nFYSAN4/j5ye/wlmAEDhPA7wJRAoGAMgEOQvmx6Z1YULBWJUxj\ndnH9SmHaSmT1RGIGk+knb97svMwkyL5aXwvWYfP6kqpVWmqDeT8KlxgBBY37DSpy\nC8u0m+QLi1KQ2USMT9n7XZa1nkla7aL7xoT4a9eWePPDrAPfLlfETgVFsfQpIeM4\nkA2SDjMXVBwyrseMeXUX0rk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hacktivgram@e-commerce-203504.iam.gserviceaccount.com",
+  "client_id": "116399441535174561576",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hacktivgram%40e-commerce-203504.iam.gserviceaccount.com"
+}
